@@ -14,7 +14,8 @@ Andrii Zhdan
 About The Author
 Andrii is a UX designer with over 15 years of experience in the field. He started as a UX designer in an e-commerce agency and later became a product designer
 <!-- intro summary -->
-Quick summary: In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.
+Quick summary:In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.
+
 In the previous article in my two-part series, I have explained how important it is to start by mastering your design tools, to work on your portfolio (even if you have very little work experience — which is to be expected at this stage), and to carefully prepare for your first design interviews.
 
 If all goes according to plan, and with a little bit of luck, you’ll land your first junior UX job — and then, of course, you’ll be facing more challenges, about which I am about to speak in this second article in my two-part article series.
@@ -26,6 +27,7 @@ You have probably heard of the Pareto Rule, which states that 20% of actions pro
 <!-- quote and attribution -->
 “The Pareto Principle is a concept that specifies that 80% of consequences come from 20% of the causes, asserting an unequal relationship between inputs and outputs. The principle was named after the economist Vilfredo Pareto.”
 — “The Pareto Principle, a.k.a. the Pareto Rule”
+
 This means that some of your actions will help you grow much faster than others.
 
 But before we go into the details, let’s briefly consider the junior UX designer path. I think it’s clear that, at first, juniors usually assist other designers with simple but time-consuming tasks. Then, the level of complexity and your responsibilities start increasing, depending on your performance.
@@ -44,21 +46,23 @@ Take the time to look again at the screenshot of the Amazon website (from Part O
 
 <!-- insert amazon-homepage-kindle.png -->
 
-The Amazon homepage with the Kindle ad displayed on it.
-The Amazon homepage featuring a Kindle advertisement, circa 2008. (Image source: versionmuseum.com) (Large preview)
+<img src="images/amazon-homepage-kindle.png" alt="Amazon Homepage Kindle" style="width=100%">
+<figcaption>The Amazon homepage with the Kindle ad displayed on it. The Amazon homepage featuring a Kindle advertisement, circa 2008. (Image source: versionmuseum.com)</figcaption>
+</figure>
 
 User interfaces didn’t appear in their present form right from the start. Instead, they evolved to their current state over the span of many years. And you all were part of their evolution, albeit passively — you registered on different websites, reset your passwords quite a few times, clicked onboarding screens, filled out short and long web forms, used search, and so on.
 
 In your design work, all tasks (or 99% of them, at least at the beginning) will be based on those UX patterns. You don’t need to reinvent the bicycle; you only need to remember what you already know and pay attention to the details while using the interfaces of the apps on your smartphone and on your computer. Ask yourself:
 
+
 Why was this designed this way?
 What is not clear enough for me as a user?
 What is thought out well and what is not?
 
+
 All of today’s great design solutions were built based on common sense and then documented so that other people can learn how to re-use this knowledge. Develop your own “common sense” skill every day by being a careful observer and by living your life consciously. Notice the patterns of good design, try to understand and memorize them, and then implement and rethink them in your own work.
 
-I can also highly recommend the Smart Interface Design Patterns course with Vitaly Friedman. It provides guidelines and best practices for common components in modern interfaces. Inventing a new solution for every problem takes time, and too often, it’s just unnecessary. Instead, we can rely on bulletproof design patterns to avoid issues down the line. This course helps with just that. In the course, you will study hundreds of hand-picked examples, from complex navigation to filters, tables, and forms, and you will work on actual real-life challenges.
-
+I can also highly recommend the <i>Smart Interface Design Patterns</i> course with Vitaly Friedman. It provides guidelines and best practices for common components in modern interfaces. Inventing a new solution for every problem takes time, and too often, it’s just unnecessary. Instead, we can rely on bulletproof design patterns to avoid issues down the line. This course helps with just that. In the course, you will study hundreds of hand-picked examples, from complex navigation to filters, tables, and forms, and you will work on actual real-life challenges.
 ￼
 Learn How to Present Your Work #
 
@@ -70,7 +74,7 @@ This is a core work skill — a skill that you’ll be actually using your whole
 
 <!-- quotation and attribution -->
 “Good communication is about sharing your ideas as clearly as possible.”
-— “Effective Communication For Everyday Meetings” (Smashing Magazine)
+—“Effective Communication For Everyday Meetings” (Smashing Magazine)
 
 In my article, I have described all the general principles that apply to effective communication, with the most important being: to develop a skill, you need to practice.
 
@@ -92,7 +96,7 @@ Learn how the business works. Talk to customers in business language and communi
 
 <!-- quote and attribution -->
 “Good UX design is where value comes into the picture. We add value when we transform a product or service from delivering a poor experience to providing a good experience.”
-— “The Value of Great UX,” by Jared Spool
+—“The Value of Great UX,” by Jared Spool
 
 Learn How to Make Interfaces Nice-looking #
 
@@ -113,22 +117,22 @@ Another good way to start is to complete a solid UX online course. If you can’
 There are many excellent courses out there, and here are a few suggestions:
 
 <!-- insert link below: https://bootcamp.uxdesign.cc/free-ux-design-courses-21b81dcd51b -->
-“Selection of free UX design courses, including those offering certifications,” by Cheshta Dua
+<a href="https://bootcamp.uxdesign.cc/free-ux-design-courses-21b81dcd51b">"Selection of free UX design courses, including those offering certifications" by Cheshta Dua</a>
 In this article, the author shares a few free UX design courses which helped her get started as a UX designer.
 
 <!-- insert link below: https://www.uxdesigninstitute.com/blog/best-free-ux-design-courses-in-2022/) -->
-“Best free UX design courses — 2024,” by Cynthia Vinney (UX Design Institute)
+<a href="https://www.uxdesigninstitute.com/blog/best-free-ux-design-courses-in-2022/">Best free UX design courses — 2024” by Cynthia Vinney (UX Design Institute)</a>
 This is a comparison of a few free UX design courses, both online and in-person.
 
 <!-- insert link below: https://careerfoundry.com/en/blog/ux-design/best-free-ux-design-courses/ -->
-“The 10 Best Free UX Design Courses in 2024,” by Rachel Meltze (CareerFoundry)
+<a href="https://careerfoundry.com/en/blog/ux-design/best-free-ux-design-courses/">“The 10 Best Free UX Design Courses in 2024,” by Rachel Meltze (CareerFoundry)</a>
 A selection of free UX design courses — using these you can learn the fundamentals of UX design, the tools designers use, and more about the UX design career path.
 
 <!-- insert link below: https://geoffgraham.me/the-basics-dev/ -->
-“The HTML/CSS Basics (.dev),” by Geoff Graham
+<a href="https://geoffgraham.me/the-basics-dev/">“The HTML/CSS Basics (.dev),” by Geoff Graham</a>
 The Basics is an excellent online course that teaches the basic principles of front-end development. It’s a good “entry point” for those just coming into front-end development or perhaps for someone with experience writing code from years ago who wants to jump into modern-day development.
 
-Practice, Practice, Practice #
+<h2>Practice, Practice, Practice #</h2>
 
 Bruce Lee once said:
 <!-- quote and attribution -->
